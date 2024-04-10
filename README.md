@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do wesley! 😁
+## Bem-vindo(a) ao meu perfil, acomode-se e vem comigo! 😁
 
  <div>
    <a href="https://github.com/Wexxley">
