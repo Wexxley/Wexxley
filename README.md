@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu perfil, acomode-se e vem comigo! 😁
+## Bem-vindo(a) ao meu perfil, muitos projetos a caminho! 😁
 
  <div>
    <a href="https://github.com/Wexxley">
